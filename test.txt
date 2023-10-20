@@ -1,0 +1,42 @@
+Envío de forma:
+17/10/2023 08:30 PM
+
+Nombre:
+Estefanía 
+
+Nombre:
+Estefanía 
+
+Opción de radio button:
+B
+
+Opción de checkboxes: 
+D
+E
+F
+
+Opción de dropdown:
+I
+
+---------------------
+
+10/2023 08:28 PM
+
+Nombre: –
+
+
+Nombre:
+
+
+Opción de radio button:
+C
+
+Opción de checkboxes: 
+E
+F
+
+Opción de dropdown:
+I
+
+---------------------
+
